@@ -1,5 +1,10 @@
 # altcheck
 
+[![npm](https://img.shields.io/npm/v/altcheck)](https://www.npmjs.com/package/altcheck)
+[![test](https://github.com/AziizBg/altcheck/actions/workflows/test.yml/badge.svg)](https://github.com/AziizBg/altcheck/actions/workflows/test.yml)
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.AziizBg%2Faltcheck-blue)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.AziizBg/altcheck)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 **Open-source alternatives, without the abandonware.**
 
 Directories tell you what alternatives *exist*. `altcheck` tells you which ones are still **safe to bet on**, checked live against GitHub with the reasons printed next to each verdict.
@@ -71,6 +76,10 @@ It uses `GITHUB_TOKEN`, `GH_TOKEN` or `gh auth token` if one is available. Each 
 ## How is this different from OpenSSF Scorecard / deps.dev?
 
 Those score a repo you've already picked, mostly for security, and deps.dev reports Terraform (BUSL), Redis (AGPL-or-SSPL) and Chatwoot (open-core) all as `non-standard`. altcheck starts from the tool you want to replace, reads the license text to tell those cases apart, and gives a verdict with reasons that a person or an agent can act on.
+
+## Got a wrong result?
+
+[Open a "got this wrong" issue](https://github.com/AziizBg/altcheck/issues/new?template=wrong-verdict.yml). It takes two minutes, and every report becomes a test case.
 
 ## Honest limitations
 
