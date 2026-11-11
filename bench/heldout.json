@@ -1,0 +1,539 @@
+{
+  "_about": "Held-out benchmark, written 2026-11-10 BEFORE running altcheck on any of these. None of these repos or tools were used while tuning the rules. 'expect' = my prior belief from public knowledge; 'truth' is filled in after reading raw evidence (LICENSE text, archived flag), never from altcheck output. license classes: osi | source-available | multi-osi | open-core | unclear | none. status: active | abandoned (archived or no push >365d) | stale",
+  "repos": [
+    {
+      "repo": "hashicorp/nomad",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL text"
+      }
+    },
+    {
+      "repo": "hashicorp/packer",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL text"
+      }
+    },
+    {
+      "repo": "hashicorp/boundary",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "abandoned",
+        "evidence": "BUSL; archived=true (expectation was wrong)"
+      }
+    },
+    {
+      "repo": "directus/directus",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "Monospace Sustainable Core License (not OSI)"
+      }
+    },
+    {
+      "repo": "redpanda-data/redpanda",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "no root LICENSE; BSL/RCL under licenses/"
+      }
+    },
+    {
+      "repo": "MaterializeInc/materialize",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL text"
+      }
+    },
+    {
+      "repo": "confluentinc/ksql",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "Confluent Community License"
+      }
+    },
+    {
+      "repo": "elastic/kibana",
+      "expect": {
+        "license": "multi-osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "multi-osi",
+        "status": "active",
+        "evidence": "AGPL/SSPL/ELv2 triple"
+      }
+    },
+    {
+      "repo": "timescale/timescaledb",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "Apache + Timescale License"
+      }
+    },
+    {
+      "repo": "RocketChat/Rocket.Chat",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "ee/ dirs"
+      }
+    },
+    {
+      "repo": "formbricks/formbricks",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "ee dir"
+      }
+    },
+    {
+      "repo": "Infisical/infisical",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "ee/ dirs"
+      }
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "ee/ dirs"
+      }
+    },
+    {
+      "repo": "SigNoz/signoz",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "ee/ dirs"
+      }
+    },
+    {
+      "repo": "dubinc/dub",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "(ee) dirs; repo renamed to dubinc/dub.link"
+      }
+    },
+    {
+      "repo": "grafana/loki",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "getlago/lago",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "immich-app/immich",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "jellyfin/jellyfin",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "caddyserver/caddy",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "ollama/ollama",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "home-assistant/core",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": ""
+      }
+    },
+    {
+      "repo": "meilisearch/meilisearch",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "MIT + EE under BUSL"
+      }
+    },
+    {
+      "repo": "request/request",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "deprecated; last push 2024-08-14"
+      }
+    },
+    {
+      "repo": "adobe/brackets",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived"
+      }
+    },
+    {
+      "repo": "mozilla/send",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived"
+      }
+    },
+    {
+      "repo": "facebookarchive/draft-js",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived"
+      }
+    },
+    {
+      "repo": "moment/moment",
+      "expect": {
+        "license": "osi",
+        "status": "stale"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "maintenance",
+        "evidence": "project in maintenance mode; recommends alternatives"
+      }
+    },
+    {
+      "repo": "tldraw/tldraw",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "custom tldraw license"
+      }
+    }
+  ],
+  "tools": [
+    {
+      "tool": "trello",
+      "expectAny": [
+        "wekan",
+        "planka",
+        "focalboard",
+        "plane",
+        "kanboard"
+      ]
+    },
+    {
+      "tool": "asana",
+      "expectAny": [
+        "openproject",
+        "plane",
+        "focalboard",
+        "huly",
+        "platform"
+      ]
+    },
+    {
+      "tool": "mailchimp",
+      "expectAny": [
+        "listmonk",
+        "mautic",
+        "keila",
+        "sendportal"
+      ]
+    },
+    {
+      "tool": "typeform",
+      "expectAny": [
+        "formbricks",
+        "ohmyform",
+        "heyform",
+        "opnform"
+      ]
+    },
+    {
+      "tool": "calendly",
+      "expectAny": [
+        "cal.com",
+        "easyappointments",
+        "rallly"
+      ]
+    },
+    {
+      "tool": "loom",
+      "expectAny": [
+        "cap"
+      ]
+    },
+    {
+      "tool": "miro",
+      "expectAny": [
+        "excalidraw",
+        "tldraw",
+        "affine",
+        "drawio"
+      ]
+    },
+    {
+      "tool": "photoshop",
+      "expectAny": [
+        "gimp",
+        "krita",
+        "photopea",
+        "pixelitor"
+      ]
+    },
+    {
+      "tool": "canva",
+      "expectAny": [
+        "penpot",
+        "polotno",
+        "openpolotno"
+      ]
+    },
+    {
+      "tool": "discord",
+      "expectAny": [
+        "revolt",
+        "stoat",
+        "element",
+        "spacebar",
+        "fosscord"
+      ]
+    },
+    {
+      "tool": "zoom",
+      "expectAny": [
+        "jitsi",
+        "bigbluebutton",
+        "jitsi-meet"
+      ]
+    },
+    {
+      "tool": "shopify",
+      "expectAny": [
+        "medusa",
+        "saleor",
+        "vendure",
+        "bagisto"
+      ]
+    },
+    {
+      "tool": "algolia",
+      "expectAny": [
+        "meilisearch",
+        "typesense"
+      ]
+    },
+    {
+      "tool": "auth0",
+      "expectAny": [
+        "keycloak",
+        "supertokens",
+        "zitadel",
+        "authentik",
+        "ory"
+      ]
+    },
+    {
+      "tool": "hotjar",
+      "expectAny": [
+        "posthog",
+        "openreplay"
+      ]
+    },
+    {
+      "tool": "mixpanel",
+      "expectAny": [
+        "posthog",
+        "umami",
+        "plausible"
+      ]
+    },
+    {
+      "tool": "retool",
+      "expectAny": [
+        "appsmith",
+        "tooljet",
+        "budibase",
+        "illa"
+      ]
+    },
+    {
+      "tool": "webflow",
+      "expectAny": [
+        "webstudio",
+        "grapesjs"
+      ]
+    },
+    {
+      "tool": "linear",
+      "expectAny": [
+        "plane",
+        "huly",
+        "platform",
+        "tegon"
+      ]
+    },
+    {
+      "tool": "chatgpt",
+      "expectAny": [
+        "open-webui",
+        "jan",
+        "librechat",
+        "lobe-chat",
+        "lobehub"
+      ]
+    }
+  ]
+}

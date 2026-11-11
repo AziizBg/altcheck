@@ -1,0 +1,546 @@
+{
+  "_about": "Held-out set #2, written 2026-11-11 BEFORE running altcheck, after the round-3 fixes. No repo or tool here was used in any earlier tuning, test or benchmark. truth is filled from raw evidence only.",
+  "repos": [
+    {
+      "repo": "akka/akka-http",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL 1.1"
+      }
+    },
+    {
+      "repo": "hashicorp/consul",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL"
+      }
+    },
+    {
+      "repo": "scylladb/scylladb",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "ScyllaDB Software License Agreement (custom)"
+      }
+    },
+    {
+      "repo": "clockworklabs/SpacetimeDB",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL"
+      }
+    },
+    {
+      "repo": "emqx/emqx",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL"
+      }
+    },
+    {
+      "repo": "dragonflydb/dragonfly",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "Dragonfly Source-Available License (custom)"
+      }
+    },
+    {
+      "repo": "arangodb/arangodb",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "BUSL"
+      }
+    },
+    {
+      "repo": "liquibase/liquibase",
+      "expect": {
+        "license": "source-available",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "FSL-1.1-ALv2"
+      }
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "AGPL except files marked @license Enterprise"
+      }
+    },
+    {
+      "repo": "novuhq/novu",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "open-core",
+        "status": "active",
+        "evidence": "Portions: enterprise/packages"
+      }
+    },
+    {
+      "repo": "documenso/documenso",
+      "expect": {
+        "license": "open-core",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "AGPL-3.0 (expectation open-core was wrong)"
+      }
+    },
+    {
+      "repo": "ToolJet/ToolJet",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "AGPL-3.0"
+      }
+    },
+    {
+      "repo": "hoppscotch/hoppscotch",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MIT"
+      }
+    },
+    {
+      "repo": "appsmithorg/appsmith",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "Apache-2.0"
+      }
+    },
+    {
+      "repo": "nocodb/nocodb",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "source-available",
+        "status": "active",
+        "evidence": "relicensed to Sustainable Use License, Jan 2026 (expectation osi was wrong)"
+      }
+    },
+    {
+      "repo": "penpot/penpot",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MPL-2.0"
+      }
+    },
+    {
+      "repo": "mastodon/mastodon",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "AGPL-3.0"
+      }
+    },
+    {
+      "repo": "syncthing/syncthing",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MPL-2.0"
+      }
+    },
+    {
+      "repo": "vercel/next.js",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MIT"
+      }
+    },
+    {
+      "repo": "denoland/deno",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MIT"
+      }
+    },
+    {
+      "repo": "astral-sh/uv",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "Apache-2.0 (GitHub)"
+      }
+    },
+    {
+      "repo": "BurntSushi/ripgrep",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "Unlicense"
+      }
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "expect": {
+        "license": "osi",
+        "status": "active"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "active",
+        "evidence": "MIT"
+      }
+    },
+    {
+      "repo": "angular/angular.js",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived, EOL"
+      }
+    },
+    {
+      "repo": "palantir/tslint",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived, deprecated"
+      }
+    },
+    {
+      "repo": "enzymejs/enzyme",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "last push 2025-10-22 (>365d)"
+      }
+    },
+    {
+      "repo": "Netflix/Hystrix",
+      "expect": {
+        "license": "osi",
+        "status": "maintenance"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "maintenance",
+        "evidence": "LICENSE-2.0.txt (Apache); README: maintenance mode"
+      }
+    },
+    {
+      "repo": "deis/workflow",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived"
+      }
+    },
+    {
+      "repo": "github/hub",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "moved to mislav/hub; last push 2024-02-02"
+      }
+    },
+    {
+      "repo": "facebookarchive/flux",
+      "expect": {
+        "license": "osi",
+        "status": "abandoned"
+      },
+      "truth": {
+        "license": "osi",
+        "status": "abandoned",
+        "evidence": "archived; BSD text"
+      }
+    }
+  ],
+  "tools": [
+    {
+      "tool": "salesforce",
+      "expectAny": [
+        "twenty",
+        "espocrm",
+        "suitecrm",
+        "odoo"
+      ]
+    },
+    {
+      "tool": "hubspot",
+      "expectAny": [
+        "twenty",
+        "mautic",
+        "espocrm",
+        "suitecrm"
+      ]
+    },
+    {
+      "tool": "zendesk",
+      "expectAny": [
+        "zammad",
+        "chatwoot",
+        "freescout",
+        "peppermint",
+        "helpy"
+      ]
+    },
+    {
+      "tool": "google docs",
+      "expectAny": [
+        "onlyoffice",
+        "cryptpad",
+        "etherpad",
+        "collabora",
+        "docmost"
+      ]
+    },
+    {
+      "tool": "microsoft teams",
+      "expectAny": [
+        "mattermost",
+        "rocket.chat",
+        "element",
+        "zulip"
+      ]
+    },
+    {
+      "tool": "evernote",
+      "expectAny": [
+        "joplin",
+        "notesnook",
+        "trilium",
+        "siyuan",
+        "memos"
+      ]
+    },
+    {
+      "tool": "todoist",
+      "expectAny": [
+        "vikunja",
+        "super-productivity",
+        "planify"
+      ]
+    },
+    {
+      "tool": "lastpass",
+      "expectAny": [
+        "bitwarden",
+        "vaultwarden",
+        "keepassxc",
+        "passbolt",
+        "padloc"
+      ]
+    },
+    {
+      "tool": "vercel",
+      "expectAny": [
+        "coolify",
+        "dokploy",
+        "kubero",
+        "caprover"
+      ]
+    },
+    {
+      "tool": "github",
+      "expectAny": [
+        "gitea",
+        "forgejo",
+        "gitlab",
+        "onedev",
+        "gogs"
+      ]
+    },
+    {
+      "tool": "datadog",
+      "expectAny": [
+        "signoz",
+        "grafana",
+        "netdata",
+        "openobserve",
+        "uptrace"
+      ]
+    },
+    {
+      "tool": "splunk",
+      "expectAny": [
+        "graylog",
+        "openobserve",
+        "wazuh",
+        "quickwit"
+      ]
+    },
+    {
+      "tool": "tableau",
+      "expectAny": [
+        "metabase",
+        "superset",
+        "redash",
+        "lightdash"
+      ]
+    },
+    {
+      "tool": "sendgrid",
+      "expectAny": [
+        "listmonk",
+        "postal",
+        "keila",
+        "plunk"
+      ]
+    },
+    {
+      "tool": "twilio",
+      "expectAny": [
+        "jambonz",
+        "fonoster",
+        "novu"
+      ]
+    },
+    {
+      "tool": "grammarly",
+      "expectAny": [
+        "languagetool",
+        "harper"
+      ]
+    },
+    {
+      "tool": "google photos",
+      "expectAny": [
+        "immich",
+        "photoprism",
+        "ente",
+        "librephotos"
+      ]
+    },
+    {
+      "tool": "bitly",
+      "expectAny": [
+        "dub",
+        "shlink",
+        "yourls",
+        "kutt"
+      ]
+    },
+    {
+      "tool": "buffer",
+      "expectAny": [
+        "postiz",
+        "mixpost"
+      ]
+    },
+    {
+      "tool": "framer",
+      "expectAny": [
+        "webstudio",
+        "onlook",
+        "instatic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "altcheck": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["bin/altcheck.js", "--mcp"]
+    }
+  }
+}

@@ -1,0 +1,133 @@
+
+## salesforce  recall:HIT  (expected any of twenty, espocrm, suitecrm, odoo)
+   [ ] VIABLE  github-search chatwoot/chatwoot                    Open-source live-chat, email support, omni-channel desk. An alternative to Inter
+   [ ] VIABLE  github-search liberusoftware/project-crm-laravel-filament CRM application written in Laravel 13 / PHP 8.5 using Filament 5. HubSpot & Sale
+   [ ] RISKY   github-search twentyhq/twenty                      The open alternative to Salesforce, designed for AI.
+   [ ] RISKY   github-search WuKongOpenSource/Wukong-AICRM        开源 AI CRM，Salesforce 开源替代 + ChatGPT 式 AI 助手：客户管理、知识库查询、任务执�
+   [ ] RISKY   github-search qrev-ai/qrev                         🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce. It's what Sa
+   [ ] RISKY   github-search openimsdk/wiseengage                 Open-source Intelligent Customer Service System.  An alternative to Intercom, Ze
+
+## hubspot  recall:MISS  (expected any of twenty, mautic, espocrm, suitecrm)
+   [ ] VIABLE  github-search Bytedesk/bytedesk                    Open Souce IM with AI powered live-chat, email, ticket support, omni-channel cus
+   [ ] VIABLE  github-search liberusoftware/project-crm-laravel-filament CRM application written in Laravel 13 / PHP 8.5 using Filament 5. HubSpot & Sale
+
+## zendesk  recall:HIT  (expected any of zammad, chatwoot, freescout, peppermint, helpy)
+   [ ] VIABLE  github-search chatwoot/chatwoot                    Open-source live-chat, email support, omni-channel desk. An alternative to Inter
+   [ ] VIABLE  seed          uvdesk/community-skeleton            UVdesk Open Source Community Helpdesk is a comprehensive ticketing support syste
+   [ ] VIABLE  github-search abhinavxd/libredesk                  Open-source, self-hosted customer support desk in a single binary. A lightweight
+   [ ] VIABLE  github-search Bytedesk/bytedesk                    Open Souce IM with AI powered live-chat, email, ticket support, omni-channel cus
+   [ ] VIABLE  github-search chattermate/chattermate.chat         Open-source AI customer support chatbot with human handoff — omnichannel inbox (
+   [ ] VIABLE  github-search InteraOne/InteraOne                  ⚡ Open source, agentic alternative to Intercom & Zendesk
+   [ ] RISKY   seed          chaskiq/chaskiq                      A full featured Live Chat, Support & Marketing platform, alternative to Intercom
+   [ ] RISKY   github-search openimsdk/wiseengage                 Open-source Intelligent Customer Service System.  An alternative to Intercom, Ze
+   [ ] AVOID   seed          papercups-io/papercups               Open-source live customer chat
+   [ ] AVOID   github-search Peppermint-Lab/peppermint            An open source issue management & help desk solution. A zendesk & jira alternati
+
+## google docs  recall:MISS  (expected any of onlyoffice, cryptpad, etherpad, collabora, docmost)
+   [ ] VIABLE  github-search fileverse/fileverse-ddocs            Open-source, end-to-end encrypted alternative to Google Docs.
+
+## microsoft teams  recall:MISS  (expected any of mattermost, rocket.chat, element, zulip)
+   [ ] VIABLE  github-search miroslavpejic85/mirotalksfu          🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time com
+
+## evernote  recall:HIT  (expected any of joplin, notesnook, trilium, siyuan, memos)
+   [ ] VIABLE  seed          TriliumNext/Trilium                  Build your personal knowledge base with Trilium Notes
+   [ ] VIABLE  github-search streetwriters/notesnook              A fully open source & end-to-end encrypted note taking alternative to Evernote.
+   [ ] RISKY   seed          laurent22/joplin                     Joplin - the privacy-focused note taking app with sync capabilities for Windows,
+   [ ] RISKY   github-search tianma-if/edgeever                   AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform s
+   [ ] RISKY   github-search bytemakers/Noteslify                 Your Privacy Friendly, Open Source. Alternative to EverNote.
+   [ ] AVOID   github-search Laverna/laverna                      Laverna is a JavaScript note taking application with Markdown editor and encrypt
+   [ ] AVOID   github-search JLiscom/OpenNote                     OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) 
+
+## todoist  recall:HIT  (expected any of vikunja, super-productivity, planify)
+   [ ] VIABLE  seed          go-vikunja/vikunja                   The task manager you actually own.
+   [ ] RISKY   github-search Kabanya/Pomodoist                    Open-source Todoist alternative. Self-hosted. A focused Pomodoro timer and task 
+
+## lastpass  recall:MISS  (expected any of bitwarden, vaultwarden, keepassxc, passbolt, padloc)
+
+## vercel  recall:HIT  (expected any of coolify, dokploy, kubero, caprover)
+   [ ] VIABLE  github-search coollabsio/coolify                   An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that 
+   [ ] VIABLE  github-search Dokploy/dokploy                      Open Source Alternative to Vercel, Netlify and Heroku.
+   [ ] VIABLE  github-search kubero-dev/kubero                    A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel /
+   [ ] VIABLE  github-search gotempsh/temps                       AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resen
+   [ ] VIABLE  github-search lumpinif/deepcrawl                   100% free and full open-source edge Firecrawl alternative with better links extr
+   [ ] VIABLE  github-search rodyherrera/Quantum                  🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, et
+   [ ] VIABLE  github-search biersoeckli/QuickStack               Open-source, self-hostable alternative to Vercel, Netlify, Railway and Heroku. S
+   [ ] VIABLE  github-search stormkit-io/stormkit-io              Self-hostable alternative to Vercel/Netlify. Deploy modern web apps with automat
+   [ ] RISKY   github-search elitan/frost                         Open Source Alternative to Vercel, Netlify, Railway, Render and Neon.
+   [ ] RISKY   github-search glincker/levelrail                   Self-hosted alternative to Vercel and Coolify. Git push, HTTPS, logs, rollback. 
+
+## github  recall:MISS  (expected any of gitea, forgejo, gitlab, onedev, gogs)
+   [ ] VIABLE  github-search thomiceli/opengist                   Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+   [ ] VIABLE  github-search vlang/gitly                          Light and fast GitHub/GitLab alternative written in V
+   [ ] VIABLE  github-search VictoriaMetrics/metrics              Lightweight alternative to github.com/prometheus/client_golang
+   [ ] AVOID   github-search fauxpilot/fauxpilot                  FauxPilot - an open-source alternative to GitHub Copilot server
+   [ ] AVOID   github-search actionsflow/actionsflow              The free Zapier/IFTTT alternative for developers to automate your workflows base
+   [ ] AVOID   github-search hocus-dev/hocus                      🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-
+   [ ] AVOID   github-search M2TeamArchived/NSudo                 [Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Se
+   [ ] AVOID   github-search heroku-python/flask-sockets          [DEPRECATED] Alternative: https://github.com/miguelgrinberg/flask-sock
+   [ ] AVOID   github-search srikanth235/privy                    An open-source alternative to GitHub copilot that runs locally.
+   [ ] AVOID   github-search flexpilot-ai/vscode-extension        Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Cod
+
+## datadog  recall:HIT  (expected any of signoz, grafana, netdata, openobserve, uptrace)
+   [ ] VIABLE  seed          netdata/netdata                      The fastest path to AI-powered full stack observability, even for lean teams.
+   [ ] VIABLE  seed          grafana/grafana                      The open and composable observability and data visualization platform. Visualize
+   [ ] VIABLE  seed          SigNoz/signoz                        SigNoz is an open-source, OpenTelemetry-native observability platform for your t
+   [ ] VIABLE  github-search openobserve/openobserve              Open source observability platform for logs, metrics, traces, RUM (web, android,
+   [ ] VIABLE  seed          VictoriaMetrics/VictoriaMetrics      VictoriaMetrics: fast, cost-effective monitoring solution and time series databa
+   [ ] VIABLE  seed          openstatusHQ/openstatus              Open-source status page, incident response and uptime monitoring
+   [ ] VIABLE  seed          uptrace/uptrace                      Open source APM: OpenTelemetry traces, metrics, and logs
+   [ ] VIABLE  github-search logtide-dev/logtide                  🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datado
+   [ ] RISKY   seed          getsentry/sentry                     Developer-first error tracking and performance monitoring
+
+## splunk  recall:HIT  (expected any of graylog, openobserve, wazuh, quickwit)
+   [ ] VIABLE  github-search openobserve/openobserve              Open source observability platform for logs, metrics, traces, RUM (web, android,
+   [ ] RISKY   seed          Graylog2/graylog2-server             Free and open log management
+   [ ] AVOID   seed          matanolabs/matano                    Open source security data lake for threat hunting, detection & response, and cyb
+
+## tableau  recall:HIT  (expected any of metabase, superset, redash, lightdash)
+   [ ] VIABLE  seed          apache/superset                      Apache Superset is a Data Visualization and Data Exploration Platform
+   [ ] VIABLE  seed          metabase/metabase                    The easy-to-use open source Business Intelligence and Embedded Analytics tool th
+   [ ] VIABLE  github-search Kanaries/graphic-walker              An open source alternative to Tableau. Embeddable visual analytic
+   [ ] RISKY   github-search dataease/dataease                    🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+
+## sendgrid  recall:MISS  (expected any of listmonk, postal, keila, plunk)
+   [ ] VIABLE  github-search usesend/useSend                      Open source alternative to Resend, Sendgrid, Postmark etc.
+   [ ] VIABLE  github-search hyvor/relay                          📨 Open-Source Email API for Developers. Cloud & Self-hosted Alternative to SES,
+   [ ] VIABLE  github-search goposta/posta                        Self-hosted email delivery platform that enables applications to send emails via
+   [ ] RISKY   github-search forwardemail/forwardemail.net        Open-source, privacy-focused email service for custom domains. Free email forwar
+
+## twilio  recall:HIT  (expected any of jambonz, fonoster, novu)
+   [ ] VIABLE  seed          livekit/livekit                      End-to-end realtime stack for connecting humans and AI
+   [ ] VIABLE  seed          fonoster/fonoster                    The AI that answers the phone.
+   [ ] VIABLE  seed          OpenVidu/openvidu                    OpenVidu Platform: self-hosted real-time video and audio for your apps, built on
+
+## grammarly  recall:MISS  (expected any of languagetool, harper)
+   [ ] VIABLE  github-search swadhinbiswas/opengrammar            A Opensource and self hosted alternative of Grammarly
+   [ ] RISKY   github-search riponcm/GemType                      Free, open-source Grammarly alternative for Chrome & Safari — AI grammar checker
+   [ ] AVOID   github-search zlwaterfield/scramble                Open-Source Grammarly Alternative
+
+## google photos  recall:MISS  (expected any of immich, photoprism, ente, librephotos)
+   [ ] VIABLE  github-search Lynavo/lynavo-drive                  LynavoDrive (Lynavo Drive) by Lynavo - an open-source alternative to iCloud and 
+   [ ] RISKY   github-search ASRumon/Telephoto                    Google Photos alternative using Telegram .Donate-buymeacoffee.com/asrumon
+   [ ] AVOID   github-search hooram/ownphotos                     Self hosted alternative to Google Photos 
+   [ ] AVOID   github-search gregordr/ImageStore                  Open source google photos alternative!
+   [ ] AVOID   github-search recall-photos/recall-app             🖼️ An open-source and decentralized alternative to Google Photos built on top o
+
+## bitly  recall:HIT  (expected any of dub, shlink, yourls, kutt)
+   [ ] VIABLE  seed          dubinc/dub.link                      The modern link attribution platform. Loved by world-class engineering teams at 
+
+## buffer  recall:HIT  (expected any of postiz, mixpost)
+   [ ] VIABLE  seed          gitroomhq/postiz-app                 📨 The ultimate agentic social media scheduling tool 🤖
+   [ ] VIABLE  github-search brightbeanxyz/brightbean-studio      Open-source, self-hostable social media management platform. Schedule, publish, 
+   [ ] RISKY   github-search inovector/mixpost                    📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. 
+   [ ] RISKY   github-search coollabsio/shoutrrr                  An open-source alternative to Buffer, Typefully, and Hootsuite. Write once and s
+   [ ] RISKY   github-search Shaitrish/37studio                   Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand v
+
+## framer  recall:HIT  (expected any of webstudio, onlook, instatic)
+   [ ] VIABLE  github-search CoreBunch/Instatic                   The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
+   [ ] VIABLE  github-search humanspeak/svelte-motion             Framer Motion for Svelte 5. Declarative motion.<tag> components with AnimatePres
+   [ ] RISKY   github-search revyme-web/builder                   The open source alternative to Framer, Webflow, Figma. A website builder where y
+   [ ] RISKY   github-search buildingopen/openpage                Open-source website builder with visual drag-and-drop editor, AI site generation
+
+recall (>=1 expected alternative found): 12/20
+candidates to judge by hand: 90

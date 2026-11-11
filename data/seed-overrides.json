@@ -1,0 +1,9 @@
+{
+  "_about": "Corrections applied on top of the RunaCapital snapshot by scripts/build-seed.mjs. Each entry says why.",
+  "replace": {
+    "kaleidos-ventures/taiga-docker": { "repo": "taigaio/taiga-back", "why": "pointed at the Docker deployment repo, not Taiga's code (made Taiga show as AVOID)" }
+  },
+  "remove": {
+    "FusionAuth/fusionauth-containers": "FusionAuth's server is not open source; this repo only holds container definitions"
+  }
+}

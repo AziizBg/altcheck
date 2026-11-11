@@ -1,0 +1,99 @@
+Starting with Redis 8, Redis Open Source is moving to a tri-licensing model with all new Redis code
+contributions governed by the updated Redis Software Grant and Contributor License Agreement.
+After this release, contributions are subject to your choice of: (a) the Redis Source Available License v2
+(RSALv2);or (b) the Server Side Public License v1 (SSPLv1); or (c) the GNU Affero General Public License v3 (AGPLv3).
+Redis Open Source 7.2 and prior releases remain subject to the BSDv3 clause license as referenced
+in the REDISCONTRIBUTIONS.txt file.
+
+The licensing structure for Redis 8.0 and subsequent releases is as follows:
+
+
+1. Redis Source Available License 2.0 (RSALv2) Agreement
+========================================================
+
+Last Update: December 30, 2023
+
+Acceptance
+----------
+
+This Agreement sets forth the terms and conditions on which the Licensor
+makes available the Software. By installing, downloading, accessing,
+Using, or distributing any of the Software, You agree to all of the
+terms and conditions of this Agreement.
+
+If You are receiving the Software on behalf of Your Company, You
+represent and warrant that You have the authority to agree to this
+Agreement on behalf of such entity.
+
+The Licensor reserves the right to update this Agreement from time to
+time.
+
+The terms below have the meanings set forth below for purposes of this
+Agreement:
+
+Definitions
+-----------
+
+Agreement: this Redis Source Available License 2.0 Agreement.
+
+Control: ownership, directly or indirectly, of substantially all the
+assets of an entity, or the power to direct its management and policies
+by vote, contract, or otherwise.
+
+License: the License as described in the License paragraph below.
+
+Licensor: the entity offering these terms, which includes Redis Ltd. on
+behalf of itself and its subsidiaries and affiliates worldwide.
+
+Modify, Modified, or Modification: copy from or adapt all or part of the
+work in a fashion requiring copyright permission other than making an
+exact copy. The resulting work is called a Modified version of the
+earlier work.
+
+Redis: the Redis software as described in redis.com redis.io.
+
+Software: certain Software components designed to work with Redis and
+provided to You under this Agreement.
+
+Trademark: the trademarks, service marks, and any other similar rights.
+
+Use: anything You do with the Software requiring one of Your Licenses.
+
+You: the recipient of the Software, the individual or entity on whose
+behalf You are agreeing to this Agreement.
+
+Your Company: any legal entity, sole proprietorship, or other kind of
+organization that You work for, plus all organizations that have control
+over, are under the control of, or are under common control with that
+organization.
+
+Your Licenses: means all the Licenses granted to You for the Software
+under this Agreement.
+
+License
+-------
+
+The Licensor grants You a non-exclusive, royalty-free, worldwide,
+non-sublicensable, non-transferable license to use, copy, distribute,
+make available, and prepare derivative works of the Software, in each
+case subject to the limitations and conditions below.
+
+Limitations
+-----------
+
+You may not make the functionality of the Software or a Modified version
+available to third parties as a service or distribute the Software or a
+Modified version in a manner that makes the functionality of the
+Software available to third parties.
+
+Making the functionality of the Software or Modified version available
+to third parties includes, without limitation, enabling third parties to
+interact with the functionality of the Software or Modified version in
+distributed form or remotely through a computer network, offering a
+product or service, the value of which entirely or primarily derives
+from the value of the Software or Modified version, or offering a
+product or service that accomplishes for users the primary purpose of
+the Software or Modified version.
+
+You may not alter, remove, or obscure any licensing, copyright, or other
+notices of the Licensor in

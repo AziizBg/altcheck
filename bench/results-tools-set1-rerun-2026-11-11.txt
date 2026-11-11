@@ -1,0 +1,158 @@
+
+## trello  recall:HIT  (expected any of wekan, planka, focalboard, plane, kanboard)
+   [ ] VIABLE  seed          makeplane/plane                      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a m
+   [ ] VIABLE  seed          opf/openproject                      OpenProject is the leading open source project management software for product, 
+   [ ] VIABLE  seed          go-vikunja/vikunja                   The task manager you actually own.
+   [ ] VIABLE  github-search kanbn/kan                            The open source Trello alternative.
+   [ ] VIABLE  github-search Paca-AI/paca                         AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Buil
+   [ ] VIABLE  seed          taigaio/taiga-back                   
+   [ ] RISKY   github-search mattermost-community/focalboard      Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asa
+
+## asana  recall:HIT  (expected any of openproject, plane, focalboard, huly, platform)
+   [ ] VIABLE  seed          opf/openproject                      OpenProject is the leading open source project management software for product, 
+   [ ] VIABLE  seed          go-vikunja/vikunja                   The task manager you actually own.
+   [ ] VIABLE  seed          taigaio/taiga-back                   
+   [ ] RISKY   github-search mattermost-community/focalboard      Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asa
+
+## mailchimp  recall:HIT  (expected any of listmonk, mautic, keila, sendportal)
+   [ ] VIABLE  seed          pentacent/keila                      Open Source Newsletter Tool.
+   [ ] VIABLE  github-search skerkour/markdown-ninja              Markdown-first CMS for bloggers, minimalists and startups. Open Source alternati
+   [ ] RISKY   github-search forwardemail/forwardemail.net        Open-source, privacy-focused email service for custom domains. Free email forwar
+
+## typeform  recall:HIT  (expected any of formbricks, ohmyform, heyform, opnform)
+   [ ] VIABLE  seed          formbricks/formbricks                Open Source Qualtrics Alternative
+   [ ] VIABLE  seed          formkit/formkit                      The form framework for coding agents
+   [ ] VIABLE  github-search LimeSurvey/LimeSurvey                🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to S
+   [ ] VIABLE  seed          formio/formio                        A Form and Data Management Platform for Progressive Web Applications.
+   [ ] VIABLE  github-search quillforms/quillforms                Open Source TypeForm Alternative Based on React JS and Typescript | Best Typefor
+   [ ] RISKY   github-search Luigigreco/gitforms                  🎯 Zero-cost contact forms for landing pages using GitHub Issues as free databas
+   [ ] AVOID   github-search tellform/tellform                    ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
+   [ ] AVOID   github-search ohmyform/ohmyform                    ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
+   [ ] AVOID   github-search formsmd/formsmd                      Developer-first, open source Typeform alternative (formerly known as Blocks.md)
+
+## calendly  recall:MISS  (expected any of cal.com, easyappointments, rallly)
+   [ ] VIABLE  seed          calcom/cal.diy                       Scheduling infrastructure for absolutely everyone.
+   [ ] VIABLE  github-search dennisklappe/CloudMeet               Open-source Calendly alternative running on Cloudflare's free tier. Meeting sche
+   [ ] RISKY   github-search rbbydotdev/someday                   Free to host calendar availability picker - open-source cal.com / calendly alter
+   [ ] RISKY   github-search Calnode/calnode                      Lean, self-hostable Calendly & Cal.com alternative — a single Go binary + SQLite
+   [ ] RISKY   github-search CCCrafts/punctual                    Scheduling that shows up on time — an open, edge-native Calendly alternative on 
+
+## loom  recall:HIT  (expected any of cap)
+   [ ] VIABLE  github-search CapSoftware/Cap                      Open source Loom alternative. Beautiful, shareable screen recordings.
+   [ ] RISKY   github-search KartikLabhshetwar/better-shot        Screenshot, screen recording, and video editor for macOS. Native SwiftUI app wit
+   [ ] RISKY   github-search fayazara/Screendrop                  A beautiful screenshot + screen recording + Loom alternative - all native, self 
+   [ ] RISKY   github-search goshops-com/clipshare                An incredibly simple, open-source alternative to Loom that only requires S3-comp
+   [ ] RISKY   github-search video-db/bloom                       An open source, agentic Loom alternative. Record locally, make recordings AI-rea
+   [ ] RISKY   github-search uzairkath/gravityRecorder            Open source Loom alternative. Professional, local-first screen recordings with a
+   [ ] AVOID   github-search mangledbottles/screenlink            ScreenLink - The Open Source Loom Alternative
+
+## miro  recall:MISS  (expected any of excalidraw, tldraw, affine, drawio)
+   [ ] AVOID   github-search CanvyDocs/CanvyDocs                  Open source Miro alternative
+
+## photoshop  recall:HIT  (expected any of gimp, krita, photopea, pixelitor)
+   [ ] RISKY   github-search robbietilton/Compositor              The Photoshop alternative for Mac
+   [ ] AVOID   github-search cttynul/gimpshop-reloaded            :pencil2: GIMP mod to make it similiar to Adobe™ product. A reborn of the most p
+
+## canva  recall:MISS  (expected any of penpot, polotno, openpolotno)
+   [ ] VIABLE  github-search presenton/presenton                  Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Deckt
+   [ ] VIABLE  github-search fancyboi999/Loomic                   Open-source AI canvas design agent — alternative to Lovart / CapCut Video Studio
+   [ ] VIABLE  github-search clawnify/OpenDesign                  Open-source Canva alternative — design editor for social media graphics. Fabric.
+   [ ] RISKY   github-search shaongitbd/doory                     Open source canva alternative
+   [ ] RISKY   github-search hyscaler/HyCanvas                    Open-source Canva alternative you can self-host: graphics, slides, video, whiteb
+   [ ] RISKY   github-search mir-ashiq/canvix                     Canvix — Free & open-source graphic design tool. A community-built Canva alterna
+   [ ] AVOID   github-search Pablituuu/react-video-editor         Online video editor alternative to canva and capcut. React video editor.
+
+## discord  recall:MISS  (expected any of revolt, stoat, element, spacebar, fosscord)
+   [ ] VIABLE  github-search TryQuiet/quiet                       A private, p2p alternative to Slack and Discord built on Tor & IPFS
+   [ ] VIABLE  github-search discord-tickets/bot                  The most popular open-source and self-hosted ticket management bot for Discord -
+   [ ] VIABLE  github-search ancsemi/Haven                        Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternati
+   [ ] VIABLE  github-search SpikeHD/Orbolay                      Quick, small, performant, multi-platform Discord overlay alternative, for every 
+   [ ] VIABLE  github-search TheZwiss/backspace                   Self-hosted, open-source Discord alternative: voice, HD video, screen share up t
+   [ ] RISKY   github-search kwalus/Canopy                        A local-first, encrypted Slack/Discord alternative built for the agentic era. AI
+
+## zoom  recall:HIT  (expected any of jitsi, bigbluebutton, jitsi-meet)
+   [ ] VIABLE  seed          jitsi/jitsi-meet                     Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a sta
+   [ ] VIABLE  github-search miroslavpejic85/mirotalksfu          🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time com
+
+## shopify  recall:HIT  (expected any of medusa, saleor, vendure, bagisto)
+   [ ] VIABLE  seed          medusajs/medusa                      The world's most flexible commerce platform for agents and developers
+   [ ] VIABLE  seed          bagisto/bagisto                      Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for
+   [ ] VIABLE  seed          saleor/saleor                        Saleor Core: the high performance, composable, headless commerce API.
+   [ ] VIABLE  seed          vendurehq/vendure                    Open-source headless commerce platform built with TypeScript, NestJS, React, and
+   [ ] VIABLE  seed          Sylius/Sylius                        Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
+   [ ] VIABLE  github-search shopnex-ai/shopnex                   Open-source Shopify alternative – self-hosted ecommerce with Liquid themes, admi
+   [ ] VIABLE  github-search liberusoftware/project-ecommerce-laravel-filament Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and L
+   [ ] VIABLE  github-search openshiporg/openfront                Open source Shopify alternative built on Next.js and Keystone.js
+   [ ] AVOID   seed          shuup/shuup                          E-Commerce Platform
+
+## algolia  recall:HIT  (expected any of meilisearch, typesense)
+   [ ] VIABLE  seed          meilisearch/meilisearch              A lightning-fast search engine API bringing AI-powered hybrid search to your sit
+   [ ] VIABLE  seed          qdrant/qdrant                        Qdrant - High-performance, massive-scale Vector Database and Vector Search Engin
+   [ ] VIABLE  github-search typesense/typesense                  Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative t
+   [ ] VIABLE  seed          weaviate/weaviate                    Weaviate is an open-source vector database that stores both objects and vectors,
+   [ ] VIABLE  seed          appbaseio/reactivesearch             Search UI components for React and Vue
+   [ ] AVOID   seed          jina-ai/serve                        ☁️ Build multimodal AI applications with cloud-native stack
+   [ ] AVOID   github-search yujonglee/canary                     Algolia alternative for technical docs
+
+## auth0  recall:HIT  (expected any of keycloak, supertokens, zitadel, authentik, ory)
+   [ ] VIABLE  seed          keycloak/keycloak                    Open Source Identity and Access Management For Modern Applications and Services
+   [ ] VIABLE  github-search supertokens/supertokens-core         Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
+   [ ] VIABLE  github-search teamhanko/hanko                      Modern authentication, on your terms. Open source alternative to Auth0, Clerk, W
+   [ ] VIABLE  seed          permitio/opal                        Policy and data administration, distribution, and real-time updates on top of Po
+   [ ] VIABLE  seed          cerbos/cerbos                        Cerbos is an open-core authorization management platform for authorizing every i
+   [ ] VIABLE  github-search authgear/authgear-server             Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biomet
+   [ ] RISKY   seed          ory/kratos                           Headless cloud-native authentication and identity management written in Go. Scal
+   [ ] RISKY   seed          ory/polis                            Streamline your web application's authentication with Polis, an SSO service supp
+   [ ] RISKY   seed          warrant-dev/warrant                  Warrant is a highly scalable, centralized authorization service based on Google 
+   [ ] AVOID   seed          osohq/oso                            Legacy Oso open source library (archived)
+
+## hotjar  recall:MISS  (expected any of posthog, openreplay)
+   [ ] AVOID   github-search fusion-hq/fusion                     🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨
+
+## mixpanel  recall:HIT  (expected any of posthog, umami, plausible)
+   [ ] VIABLE  seed          PostHog/posthog                      :hedgehog: PostHog is the leading platform for building self-driving products. O
+   [ ] VIABLE  github-search Openpanel-dev/openpanel              OpenPanel is an open-source web and product analytics platform, an open-source a
+   [ ] RISKY   github-search Litlyx/litlyx                        Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Sim
+   [ ] AVOID   github-search anonrig/socketkit                    Socketkit is a free open-source alternative to ChartMogul, SensorTower, Google A
+   [ ] AVOID   github-search fusion-hq/fusion                     🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨
+   [ ] UNKNOWN seed          objectiv/objectiv-analytics          
+
+## retool  recall:HIT  (expected any of appsmith, tooljet, budibase, illa)
+   [ ] VIABLE  seed          appsmithorg/appsmith                 Platform to build admin panels, internal tools, and dashboards. Integrates with 
+   [ ] VIABLE  seed          ToolJet/ToolJet                      Open-source foundation of ToolJet AI - the enterprise app generation platform fo
+   [ ] VIABLE  github-search windmill-labs/windmill               Code-first platform for workflows, apps and AI agents, on the fastest self-hosta
+   [ ] VIABLE  seed          lowdefy/lowdefy                      Build apps that AI can generate, humans can review, and teams can maintain. Conf
+   [ ] VIABLE  github-search lowcoder-org/lowcoder                🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
+   [ ] RISKY   seed          Budibase/budibase                    AI agents, automations and apps that run your operations. Model agnostic.
+   [ ] RISKY   seed          illacloud/illa-builder               Low-code platform allows you to build business apps, enables you to quickly crea
+   [ ] AVOID   github-search openblocks-dev/openblocks            🔥 🔥 🔥 The Open Source Retool Alternative
+   [ ] AVOID   github-search Toola-bakery/Toola                   The open-source Retool alternative. Low-code platform for building internal tool
+
+## webflow  recall:HIT  (expected any of webstudio, grapesjs)
+   [ ] VIABLE  github-search webstudio-is/webstudio               Open source website builder and Webflow alternative. Webstudio is an advanced vi
+   [ ] VIABLE  github-search CoreBunch/Instatic                   The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste
+   [ ] RISKY   github-search revyme-web/builder                   The open source alternative to Framer, Webflow, Figma. A website builder where y
+   [ ] AVOID   github-search dotenx/dotenx                        No-code and Low-code all-in-one platform to build landing pages, websites, web a
+
+## linear  recall:HIT  (expected any of plane, huly, platform, tegon)
+   [ ] VIABLE  github-search makeplane/plane                      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a m
+   [ ] VIABLE  github-search Devlaner/devlane                     Open-source Jira, Linear, Monday, ClickUp and Plane alternative. Devlane is a mo
+   [ ] RISKY   github-search hcengineering/platform               Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slac
+   [ ] RISKY   github-search croffasia/itsaplan                   ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project
+   [ ] RISKY   github-search smarzban/tsk                         tsk, a Linear alternative that stays in the terminal: a shared task board for yo
+   [ ] AVOID   github-search RedPlanetHQ/tegon                    Tegon is an open-source, dev-first alternative to Jira, Linear
+
+## chatgpt  recall:HIT  (expected any of open-webui, jan, librechat, lobe-chat, lobehub)
+   [ ] VIABLE  github-search browseros-ai/BrowserOS               🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Com
+   [ ] VIABLE  github-search SourceWeft/SourceWeft                Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skill
+   [ ] RISKY   github-search janhq/jan                            Jan is an open source alternative to ChatGPT that runs 100% offline on your comp
+   [ ] RISKY   github-search finic-ai/rag-stack                   🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to
+   [ ] RISKY   github-search FrigadeHQ/hob                        An easier way to use AI on your own computer. A free, open-source alternative to
+   [ ] RISKY   github-search BrowserOperator/browser-operator-core Browser Operator - The AI browser with built in Multi-Agent platform! Open sourc
+   [ ] RISKY   github-search composio-community/open-chatgpt-atlas Open Source and Free Alternative to ChatGPT Atlas.
+   [ ] RISKY   github-search stainlu/openclaw-managed-agents      OpenClaw Managed Agents — the open alternative to Claude Managed Agents & ChatGP
+   [ ] RISKY   github-search open-net-worth-ai/open-net-worth     Self-hosted alternative to Claude and ChatGPT Personal Finance. An AI agent that
+   [ ] AVOID   github-search AFK-surf/open-agent                  Open-source alternative to Claude Agent SDK, ChatGPT Agents, and Manus.
+
+recall (>=1 expected alternative found): 15/20
+candidates to judge by hand: 115

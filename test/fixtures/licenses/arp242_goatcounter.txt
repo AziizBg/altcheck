@@ -1,0 +1,83 @@
+Copyright © Martin Tournoij <martin@arp242.net>
+
+GoatCounter is licensed under a slightly modified version of European Union
+Public License (EUPL) 1.2; the only difference is that the “Compatible Licenses”
+Appendix removes some licenses, but is otherwise identical.
+
+The EUPL is available in the 22 official languages of the EU. Only the English
+one is provided here, for the official translations see:
+https://interoperable-europe.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+
+Motivation for choosing the EUPL: https://www.arp242.net/license.html
+
+The count.js integration script is licensed under the permissive ISC license to
+ease integrating it. GoatCounter also contains various 3rd-party components,
+most of which are MIT or BSD licensed (the licenses for which are included in
+this file as well). See docs/sbom.md for a list of all dependencies and their
+licenses.
+
+
+––– public/count.js; ISC license ––––––––––––––––––––––––––––––––––––––––––––––
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
+
+
+––– Start of license text –––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+                      EUROPEAN UNION PUBLIC LICENCE v. 1.2
+                      EUPL © the European Union 2007, 2016
+
+This European Union Public Licence (the ‘EUPL’) applies to the Work (as defined
+below) which is provided under the terms of this Licence. Any use of the Work,
+other than as authorised under this Licence is prohibited (to the extent such
+use is covered by a right of the copyright holder of the Work).
+
+The Work is provided under the terms of this Licence when the Licensor (as
+defined below) has placed the following notice immediately following the
+copyright notice for the Work:
+
+        Licensed under the EUPL
+
+or has expressed by any other means his willingness to license under the EUPL.
+
+1. Definitions
+
+In this Licence, the following terms have the following meaning:
+
+- ‘The Licence’: this Licence.
+
+- ‘The Original Work’: the work or software distributed or communicated by the
+  Licensor under this Licence, available as Source Code and also as Executable
+  Code as the case may be.
+
+- ‘Derivative Works’: the works or software that could be created by the
+  Licensee, based upon the Original Work or modifications thereof. This Licence
+  does not define the extent of modification or dependence on the Original Work
+  required in order to classify a work as a Derivative Work; this extent is
+  determined by copyright law applicable in the country mentioned in Article 15.
+
+- ‘The Work’: the Original Work or its Derivative Works.
+
+- ‘The Source Code’: the human-readable form of the Work which is the most
+  convenient for people to study and modify.
+
+- ‘The Executable Code’: any code which has generally been compiled and which is
+  meant to be interpreted by a computer as a program.
+
+- ‘The Licensor’: the natural or legal person that distributes or communicates
+  the Work under the Licence.
+
+- ‘Contributor(s)’: any natural or legal person who modifies the Work under the
+  Licence, or otherwise contributes to the creation of a Derivative Work.
+
+- ‘The Licensee’ or �

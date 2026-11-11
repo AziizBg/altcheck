@@ -1,0 +1,21 @@
+{
+  "name": "altcheck",
+  "version": "0.1.0",
+  "description": "Open-source alternatives, without the abandonware. Find OSS replacements for a tool and vet each one live: VIABLE / RISKY / AVOID. CLI + MCP server.",
+  "type": "module",
+  "bin": { "altcheck": "bin/altcheck.js" },
+  "files": ["bin", "src", "data", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test",
+    "build:seed": "node scripts/build-seed.mjs",
+    "bench:repos": "node bench/run.mjs repos heldout-2.json",
+    "bench:tools": "node bench/run.mjs tools heldout-2.json"
+  },
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "git+https://github.com/AziizBg/altcheck.git" },
+  "homepage": "https://github.com/AziizBg/altcheck#readme",
+  "bugs": { "url": "https://github.com/AziizBg/altcheck/issues" },
+  "author": "Ben Ghorbel Mohamed Aziz",
+  "keywords": ["open-source", "alternatives", "oss", "self-hosted", "mcp", "mcp-server", "cli", "license", "bus-factor", "busl", "relicensing", "abandoned"],
+  "license": "MIT"
+}

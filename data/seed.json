@@ -1,0 +1,1889 @@
+{
+ "source": "https://github.com/RunaCapital/awesome-oss-alternatives (MIT) + data/seed-overrides.json",
+ "rows": 212,
+ "index": {
+  "apigee": [
+   {
+    "name": "Apache APISIX",
+    "repo": "apache/apisix",
+    "description": "Cloud Native API Gateway under the Apache Software Foundation"
+   }
+  ],
+  "postman": [
+   {
+    "name": "Firecamp",
+    "repo": "firecamp-dev/firecamp",
+    "description": "DX first open-source API devtool"
+   },
+   {
+    "name": "Fusio",
+    "repo": "apioo/fusio",
+    "description": "API management platform"
+   },
+   {
+    "name": "Hoppscotch",
+    "repo": "hoppscotch/hoppscotch",
+    "description": "API development ecosystem"
+   },
+   {
+    "name": "Step CI",
+    "repo": "stepci/stepci",
+    "description": "API Testing and Monitoring"
+   }
+  ],
+  "smartbear": [
+   {
+    "name": "Keploy",
+    "repo": "keploy/keploy",
+    "description": "e2e Testing and Data Mocking"
+   }
+  ],
+  "newman": [
+   {
+    "name": "Keploy",
+    "repo": "keploy/keploy",
+    "description": "e2e Testing and Data Mocking"
+   }
+  ],
+  "checkly": [
+   {
+    "name": "Step CI",
+    "repo": "stepci/stepci",
+    "description": "API Testing and Monitoring"
+   }
+  ],
+  "auth0": [
+   {
+    "name": "BoxyHQ",
+    "repo": "boxyhq/jackson",
+    "description": "Enterprise Readiness made simple"
+   },
+   {
+    "name": "Cerbos",
+    "repo": "cerbos/cerbos",
+    "description": "Granular access control"
+   },
+   {
+    "name": "Hanko",
+    "repo": "teamhanko/hanko",
+    "description": "Passkey-first authentication framework"
+   },
+   {
+    "name": "Keycloak",
+    "repo": "keycloak/keycloak",
+    "description": "User authentication and session management framework"
+   },
+   {
+    "name": "OPAL (Permit.io)",
+    "repo": "permitio/opal",
+    "description": "Authorization administration framework (Open Policy)"
+   },
+   {
+    "name": "Ory",
+    "repo": "ory/kratos",
+    "description": "Identity platform"
+   },
+   {
+    "name": "Oso",
+    "repo": "osohq/oso",
+    "description": "Authorization building framework"
+   },
+   {
+    "name": "Supertokens",
+    "repo": "supertokens/supertokens-core",
+    "description": "User authentication and session management framework"
+   },
+   {
+    "name": "Warrant",
+    "repo": "warrant-dev/warrant",
+    "description": "Authorization and access control as a service"
+   },
+   {
+    "name": "Zitadel",
+    "repo": "zitadel/zitadel",
+    "description": "User authentication and session management framework"
+   }
+  ],
+  "okta": [
+   {
+    "name": "Cerbos",
+    "repo": "cerbos/cerbos",
+    "description": "Granular access control"
+   },
+   {
+    "name": "Hanko",
+    "repo": "teamhanko/hanko",
+    "description": "Passkey-first authentication framework"
+   },
+   {
+    "name": "Keycloak",
+    "repo": "keycloak/keycloak",
+    "description": "User authentication and session management framework"
+   },
+   {
+    "name": "OPAL (Permit.io)",
+    "repo": "permitio/opal",
+    "description": "Authorization administration framework (Open Policy)"
+   },
+   {
+    "name": "Ory",
+    "repo": "ory/kratos",
+    "description": "Identity platform"
+   },
+   {
+    "name": "Oso",
+    "repo": "osohq/oso",
+    "description": "Authorization building framework"
+   },
+   {
+    "name": "Supertokens",
+    "repo": "supertokens/supertokens-core",
+    "description": "User authentication and session management framework"
+   },
+   {
+    "name": "Warrant",
+    "repo": "warrant-dev/warrant",
+    "description": "Authorization and access control as a service"
+   },
+   {
+    "name": "Zitadel",
+    "repo": "zitadel/zitadel",
+    "description": "User authentication and session management framework"
+   }
+  ],
+  "firebase": [
+   {
+    "name": "AceBase",
+    "repo": "appy-one/acebase",
+    "description": "Backend server with REST APIs to manage core backend needs"
+   },
+   {
+    "name": "Amplication",
+    "repo": "amplication/amplication",
+    "description": "Backend server with REST and GraphQL APIs to manage core backend needs"
+   },
+   {
+    "name": "Appwrite",
+    "repo": "appwrite/appwrite",
+    "description": "Backend server with REST APIs to manage core backend needs"
+   },
+   {
+    "name": "CASE",
+    "repo": "casejs/case",
+    "description": "Lightweight Backend-as-a-Service with essential features"
+   },
+   {
+    "name": "Encore",
+    "repo": "encoredev/encore",
+    "description": "Backend Development Engine for cloud-based apps, APIs, and distributed systems"
+   },
+   {
+    "name": "Kuzzle",
+    "repo": "kuzzleio/kuzzle",
+    "description": "Backend server with REST APIs to manage core backend needs"
+   },
+   {
+    "name": "Nhost",
+    "repo": "nhost/nhost",
+    "description": "Backend server with GraphQL"
+   },
+   {
+    "name": "PocketBase",
+    "repo": "pocketbase/pocketbase",
+    "description": "Backend server with REST APIs to manage core backend needs"
+   },
+   {
+    "name": "Supabase",
+    "repo": "supabase/supabase",
+    "description": "Backend server with REST APIs to manage core backend needs"
+   }
+  ],
+  "tableau": [
+   {
+    "name": "Metabase",
+    "repo": "metabase/metabase",
+    "description": "Business intelligence software"
+   },
+   {
+    "name": "Preset",
+    "repo": "apache/superset",
+    "description": "Modern BI platform powered by Apache Superset"
+   }
+  ],
+  "powerbi": [
+   {
+    "name": "Metabase",
+    "repo": "metabase/metabase",
+    "description": "Business intelligence software"
+   },
+   {
+    "name": "Preset",
+    "repo": "apache/superset",
+    "description": "Modern BI platform powered by Apache Superset"
+   }
+  ],
+  "datastudio": [
+   {
+    "name": "Metabase",
+    "repo": "metabase/metabase",
+    "description": "Business intelligence software"
+   }
+  ],
+  "modeanalytics": [
+   {
+    "name": "Preset",
+    "repo": "apache/superset",
+    "description": "Modern BI platform powered by Apache Superset"
+   }
+  ],
+  "contentful": [
+   {
+    "name": "Builder",
+    "repo": "builderio/builder",
+    "description": "Drag and drop page builder and CMS"
+   },
+   {
+    "name": "Concrete",
+    "repo": "concrete5/concrete5",
+    "description": "CMS for teams"
+   },
+   {
+    "name": "Decap CMS",
+    "repo": "decaporg/decap-cms",
+    "description": "Git-based CMS for static site generators"
+   },
+   {
+    "name": "Directus",
+    "repo": "directus/directus",
+    "description": "Data platform which wraps any database with an intuitive app"
+   },
+   {
+    "name": "Plasmic",
+    "repo": "plasmicapp/plasmic",
+    "description": "The headless page builder for singe-page frameworks"
+   },
+   {
+    "name": "Strapi",
+    "repo": "strapi/strapi",
+    "description": "Node.js Headless CMS to build customisable APIs"
+   },
+   {
+    "name": "Sulu",
+    "repo": "sulu/sulu",
+    "description": "Modern Symfony based CMS"
+   },
+   {
+    "name": "Tina",
+    "repo": "tinacms/tinacms",
+    "description": "Visual editor for React websites"
+   },
+   {
+    "name": "Webiny",
+    "repo": "webiny/webiny-js",
+    "description": "Enterprise serverless CMS"
+   }
+  ],
+  "medium": [
+   {
+    "name": "Ghost",
+    "repo": "tryghost/ghost",
+    "description": "Headless Node.js publishing platform"
+   }
+  ],
+  "substack": [
+   {
+    "name": "Ghost",
+    "repo": "tryghost/ghost",
+    "description": "Headless Node.js publishing platform"
+   }
+  ],
+  "snowflake": [
+   {
+    "name": "Databend",
+    "repo": "datafuselabs/databend",
+    "description": "Elastic and Workload-Aware Modern Cloud Data Warehouse"
+   }
+  ],
+  "codespaces": [
+   {
+    "name": "Gitpod",
+    "repo": "gitpod-io/gitpod",
+    "description": "Automated provisioning of cloud development environments with multiple git providers & IDEs"
+   }
+  ],
+  "amazons3": [
+   {
+    "name": "Minio",
+    "repo": "minio/minio",
+    "description": "S3 compatible object storage"
+   },
+   {
+    "name": "Storj",
+    "repo": "storj/storj",
+    "description": "Decentralized cloud storage"
+   }
+  ],
+  "paloaltoprisma": [
+   {
+    "name": "Deepfence ThreatMapper",
+    "repo": "deepfence/ThreatMapper",
+    "description": "Apache v2, powerful runtime vulnerability and compliance scanner for kubernetes, virtual machines, cloud and serverless."
+   }
+  ],
+  "twilio": [
+   {
+    "name": "Fonoster",
+    "repo": "fonoster/fonoster",
+    "description": "APIs for SMS, voice and video"
+   },
+   {
+    "name": "LiveKit",
+    "repo": "livekit/livekit-server",
+    "description": "SFU and SDKs for high-performance, scalable WebRTC"
+   },
+   {
+    "name": "OpenVidu",
+    "repo": "OpenVidu/openvidu",
+    "description": "Platform and SDKs to build on-premises WebRTC video conferences"
+   }
+  ],
+  "courier": [
+   {
+    "name": "Novu",
+    "repo": "novuhq/novu",
+    "description": "Components and APIs for email, sms, direct and push"
+   }
+  ],
+  "magicbell": [
+   {
+    "name": "Novu",
+    "repo": "novuhq/novu",
+    "description": "Components and APIs for email, sms, direct and push"
+   }
+  ],
+  "knock": [
+   {
+    "name": "Novu",
+    "repo": "novuhq/novu",
+    "description": "Components and APIs for email, sms, direct and push"
+   }
+  ],
+  "orbit": [
+   {
+    "name": "crowd.dev",
+    "repo": "CrowdDotDev/crowd.dev",
+    "description": "Suite of community and data tools built to unlock community-led growth for your organization"
+   }
+  ],
+  "commonroom": [
+   {
+    "name": "crowd.dev",
+    "repo": "CrowdDotDev/crowd.dev",
+    "description": "Suite of community and data tools built to unlock community-led growth for your organization"
+   }
+  ],
+  "commsor": [
+   {
+    "name": "crowd.dev",
+    "repo": "CrowdDotDev/crowd.dev",
+    "description": "Suite of community and data tools built to unlock community-led growth for your organization"
+   }
+  ],
+  "segment": [
+   {
+    "name": "Jitsu",
+    "repo": "jitsucom/jitsu",
+    "description": "Fully-scriptable data ingestion engine for modern data teams"
+   },
+   {
+    "name": "Rudderstack",
+    "repo": "rudderlabs/rudder-server",
+    "description": "Customer data platform for developers"
+   },
+   {
+    "name": "Tracardi",
+    "repo": "tracardi/tracardi",
+    "description": "Customer Data Platform with Consumer Journey automation engine"
+   },
+   {
+    "name": "Trench",
+    "repo": "FrigadeHQ/trench",
+    "description": "Open source analytics infrastructure"
+   }
+  ],
+  "zapier": [
+   {
+    "name": "Tracardi",
+    "repo": "tracardi/tracardi",
+    "description": "Customer Data Platform with Consumer Journey automation engine"
+   },
+   {
+    "name": "Activepieces",
+    "repo": "activepieces/activepieces",
+    "description": "No-code business automation tool"
+   },
+   {
+    "name": "N8N",
+    "repo": "n8n-io/n8n",
+    "description": "Node-based workflow automation tool for developers"
+   },
+   {
+    "name": "Pipedream",
+    "repo": "PipedreamHQ/pipedream",
+    "description": "Workflow automation and API integration platform"
+   },
+   {
+    "name": "Temporal",
+    "repo": "temporalio/temporal",
+    "description": "Workflows as code platform"
+   }
+  ],
+  "intercom": [
+   {
+    "name": "Chaskiq",
+    "repo": "chaskiq/chaskiq",
+    "description": "Live chat widget"
+   },
+   {
+    "name": "Chatwoot",
+    "repo": "chatwoot/chatwoot",
+    "description": "Live chat widget"
+   },
+   {
+    "name": "Papercups",
+    "repo": "papercups-io/papercups",
+    "description": "Live chat widget"
+   }
+  ],
+  "zendesk": [
+   {
+    "name": "Chaskiq",
+    "repo": "chaskiq/chaskiq",
+    "description": "Live chat widget"
+   },
+   {
+    "name": "Chatwoot",
+    "repo": "chatwoot/chatwoot",
+    "description": "Live chat widget"
+   },
+   {
+    "name": "Papercups",
+    "repo": "papercups-io/papercups",
+    "description": "Live chat widget"
+   },
+   {
+    "name": "Peppermint",
+    "repo": "Peppermint-Lab/peppermint",
+    "description": "Ticket Management & Helpdesk system"
+   },
+   {
+    "name": "UVDesk",
+    "repo": "uvdesk/community-skeleton",
+    "description": "Ticket Management & Helpdesk system"
+   }
+  ],
+  "awsconfig": [
+   {
+    "name": "CloudQuery",
+    "repo": "cloudquery/cloudquery",
+    "description": "Assess, audit, and evaluate the configurations of your cloud assets."
+   }
+  ],
+  "gcpcloudassetinventory": [
+   {
+    "name": "CloudQuery",
+    "repo": "cloudquery/cloudquery",
+    "description": "Assess, audit, and evaluate the configurations of your cloud assets."
+   }
+  ],
+  "awsguardduty": [
+   {
+    "name": "CloudQuery",
+    "repo": "cloudquery/cloudquery",
+    "description": "Assess, audit, and evaluate the configurations of your cloud assets."
+   }
+  ],
+  "greynoise": [
+   {
+    "name": "CrowdSec",
+    "repo": "crowdsecurity/crowdsec",
+    "description": "Collaborative IPS able to analyze visitor behavior and to provide an adapted response to all kinds of attacks."
+   }
+  ],
+  "plextrac": [
+   {
+    "name": "Faraday",
+    "repo": "infobyte/faraday",
+    "description": "Open Source Vulnerability Management and Orchestration Platform"
+   }
+  ],
+  "vulcan": [
+   {
+    "name": "Faraday",
+    "repo": "infobyte/faraday",
+    "description": "Open Source Vulnerability Management and Orchestration Platform"
+   }
+  ],
+  "openvpnaccessserver": [
+   {
+    "name": "Firezone",
+    "repo": "firezone/firezone",
+    "description": "VPN Server & Firewall for teams"
+   }
+  ],
+  "tailscale": [
+   {
+    "name": "Gravitl",
+    "repo": "gravitl/netmaker",
+    "description": "WireGuard virtual networking platform (VPN)"
+   },
+   {
+    "name": "NetBird",
+    "repo": "netbirdio/netbird",
+    "description": "Zero Configuration Mesh VPN for Business"
+   }
+  ],
+  "openvpn": [
+   {
+    "name": "Gravitl",
+    "repo": "gravitl/netmaker",
+    "description": "WireGuard virtual networking platform (VPN)"
+   },
+   {
+    "name": "NetBird",
+    "repo": "netbirdio/netbird",
+    "description": "Zero Configuration Mesh VPN for Business"
+   },
+   {
+    "name": "OmniEdge",
+    "repo": "omniedgeio/omniedge",
+    "description": "No-code P2P layer-2 mesh VPN for enterprise with zero config"
+   }
+  ],
+  "githubdependabot": [
+   {
+    "name": "LunaTrace",
+    "repo": "lunasec-io/lunasec",
+    "description": "Dependency Vulnerability Scanner and SBOM Inventory"
+   }
+  ],
+  "snyk": [
+   {
+    "name": "LunaTrace",
+    "repo": "lunasec-io/lunasec",
+    "description": "Dependency Vulnerability Scanner and SBOM Inventory"
+   }
+  ],
+  "sonatypenexus": [
+   {
+    "name": "LunaTrace",
+    "repo": "lunasec-io/lunasec",
+    "description": "Dependency Vulnerability Scanner and SBOM Inventory"
+   }
+  ],
+  "splunk": [
+   {
+    "name": "Matano",
+    "repo": "matanolabs/matano",
+    "description": "Open source cloud-native security lake platform (SIEM alternative) for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS"
+   },
+   {
+    "name": "Graylog",
+    "repo": "Graylog2/graylog2-server",
+    "description": "Log management platform"
+   }
+  ],
+  "elasticcloud": [
+   {
+    "name": "Matano",
+    "repo": "matanolabs/matano",
+    "description": "Open source cloud-native security lake platform (SIEM alternative) for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS"
+   },
+   {
+    "name": "Manticore Search",
+    "repo": "manticoresoftware/manticoresearch",
+    "description": "Easy to use open source fast database for search"
+   },
+   {
+    "name": "Zinc Labs",
+    "repo": "prabhatsharma/zinc",
+    "description": "Cloud native full text search"
+   },
+   {
+    "name": "Quickwit",
+    "repo": "quickwit-oss/quickwit",
+    "description": "Cloud-native log management & analytics"
+   }
+  ],
+  "tenablenessus": [
+   {
+    "name": "Nuclei",
+    "repo": "projectdiscovery/nuclei",
+    "description": "Vulnerability scanner based on simple YAML based DSL"
+   }
+  ],
+  "landingfolio": [
+   {
+    "name": "21st.dev",
+    "repo": "rorkai/21st",
+    "description": "The NPM for Design Engineers"
+   }
+  ],
+  "figma": [
+   {
+    "name": "Modulz",
+    "repo": "radix-ui/primitives",
+    "description": "Code-based tool for designing and prototyping"
+   },
+   {
+    "name": "Penpot",
+    "repo": "penpot/penpot",
+    "description": "Design & prototyping platform"
+   }
+  ],
+  "docusign": [
+   {
+    "name": "DocuSeal",
+    "repo": "docusealco/docuseal",
+    "description": "Digital Signing Infrastructure"
+   },
+   {
+    "name": "Documenso",
+    "repo": "documenso/documenso",
+    "description": "Digital Signing Infrastructure"
+   },
+   {
+    "name": "LibreSign",
+    "repo": "LibreSign/libresign",
+    "description": "Digital document signer"
+   }
+  ],
+  "shopify": [
+   {
+    "name": "Bagisto",
+    "repo": "bagisto/bagisto",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Medusa",
+    "repo": "medusajs/medusa",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Saleor",
+    "repo": "saleor/saleor",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Shuup",
+    "repo": "shuup/shuup",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Sylius",
+    "repo": "sylius/sylius",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Vendure",
+    "repo": "vendure-ecommerce/vendure",
+    "description": "Headless e-commerce platform"
+   }
+  ],
+  "ecwid": [
+   {
+    "name": "Bagisto",
+    "repo": "bagisto/bagisto",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Medusa",
+    "repo": "medusajs/medusa",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Saleor",
+    "repo": "saleor/saleor",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Shuup",
+    "repo": "shuup/shuup",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Sylius",
+    "repo": "sylius/sylius",
+    "description": "Headless e-commerce platform"
+   },
+   {
+    "name": "Vendure",
+    "repo": "vendure-ecommerce/vendure",
+    "description": "Headless e-commerce platform"
+   }
+  ],
+  "shogun": [
+   {
+    "name": "Vue Storefront",
+    "repo": "vuestorefront/vue-storefront",
+    "description": "Frontend for e-commerce platform"
+   }
+  ],
+  "fivetran": [
+   {
+    "name": "Airbyte",
+    "repo": "airbytehq/airbyte",
+    "description": "Data integration platform"
+   },
+   {
+    "name": "Benthos",
+    "repo": "benthosdev/benthos",
+    "description": "Data streaming processor with yaml-driven pipeline configuration"
+   },
+   {
+    "name": "Dagster",
+    "repo": "dagster-io/dagster",
+    "description": "Orchestration platform for data assets"
+   },
+   {
+    "name": "Kestra",
+    "repo": "kestra-io/kestra",
+    "description": "orchestration and scheduling platform"
+   },
+   {
+    "name": "Orchest",
+    "repo": "orchest/orchest",
+    "description": "No-code data pipelines builder"
+   },
+   {
+    "name": "Prefect",
+    "repo": "prefecthq/prefect",
+    "description": "Data orchestration platform for a modern data stack"
+   },
+   {
+    "name": "Selefra",
+    "repo": "selefra/selefra",
+    "description": "An open-source policy-as-code software that provides analytics for multi-cloud and SaaS."
+   }
+  ],
+  "oraclefusionerpcloud": [
+   {
+    "name": "DoliCloud",
+    "repo": "Dolibarr/dolibarr",
+    "description": "Business management suite (ERP and CRM)"
+   }
+  ],
+  "odoo": [
+   {
+    "name": "DoliCloud",
+    "repo": "Dolibarr/dolibarr",
+    "description": "Business management suite (ERP and CRM)"
+   },
+   {
+    "name": "ERPNext",
+    "repo": "frappe/erpnext",
+    "description": "Agile, modern, module based Business management suite"
+   }
+  ],
+  "microsoftdynamics": [
+   {
+    "name": "DoliCloud",
+    "repo": "Dolibarr/dolibarr",
+    "description": "Business management suite (ERP and CRM)"
+   }
+  ],
+  "sapbusinessone": [
+   {
+    "name": "ERPNext",
+    "repo": "frappe/erpnext",
+    "description": "Agile, modern, module based Business management suite"
+   }
+  ],
+  "mailchimp": [
+   {
+    "name": "Keila",
+    "repo": "pentacent/keila",
+    "description": "Email newsletter tool"
+   }
+  ],
+  "sendinblue": [
+   {
+    "name": "Keila",
+    "repo": "pentacent/keila",
+    "description": "Email newsletter tool"
+   }
+  ],
+  "algolia": [
+   {
+    "name": "AppBase",
+    "repo": "appbaseio/reactivesearch",
+    "description": "Search UI components for React and Vue"
+   },
+   {
+    "name": "Jina.ai",
+    "repo": "jina-ai/jina",
+    "description": "Neural search framework for 𝙖𝙣𝙮 kind of data (including images)"
+   },
+   {
+    "name": "Meilisearch",
+    "repo": "meilisearch/meilisearch",
+    "description": "Typo tolerant search engine"
+   },
+   {
+    "name": "Qdrant",
+    "repo": "qdrant/qdrant",
+    "description": "Vector similarity search engine with extended filtering support"
+   },
+   {
+    "name": "SeMI",
+    "repo": "semi-technologies/weaviate",
+    "description": "Real-time vector search engine"
+   },
+   {
+    "name": "TypeSense",
+    "repo": "typesense/typesense",
+    "description": "Typo tolerant fuzzy search engine"
+   }
+  ],
+  "googlevertexai": [
+   {
+    "name": "Qdrant",
+    "repo": "qdrant/qdrant",
+    "description": "Vector similarity search engine with extended filtering support"
+   },
+   {
+    "name": "SeMI",
+    "repo": "semi-technologies/weaviate",
+    "description": "Real-time vector search engine"
+   },
+   {
+    "name": "Zilliz",
+    "repo": "milvus-io/milvus",
+    "description": "Vector database for AI applications"
+   },
+   {
+    "name": "Seldon",
+    "repo": "SeldonIO/seldon-core",
+    "description": "Deployment & monitoring for machine learning at scale"
+   }
+  ],
+  "awskendra": [
+   {
+    "name": "deepset",
+    "repo": "deepset-ai/haystack",
+    "description": "NLP platform to build enterprise-grade semantic search"
+   }
+  ],
+  "qnamaker": [
+   {
+    "name": "deepset",
+    "repo": "deepset-ai/haystack",
+    "description": "NLP platform to build enterprise-grade semantic search"
+   }
+  ],
+  "launchdarkly": [
+   {
+    "name": "FlagSmith",
+    "repo": "Flagsmith/flagsmith",
+    "description": "Feature Flag & Remote Config Service"
+   },
+   {
+    "name": "GrowthBook",
+    "repo": "growthbook/growthbook",
+    "description": "Feature flags and A/B testing"
+   },
+   {
+    "name": "Unleash",
+    "repo": "Unleash/unleash",
+    "description": "Feature flags platform"
+   }
+  ],
+  "dropbox": [
+   {
+    "name": "Filestash",
+    "repo": "mickael-kerjean/filestash",
+    "description": "A file manager that let you manage your data anywhere it is located"
+   },
+   {
+    "name": "Nextcloud",
+    "repo": "nextcloud/server",
+    "description": "A personal cloud which runs on your own server"
+   },
+   {
+    "name": "Owncloud",
+    "repo": "owncloud/core",
+    "description": "A personal cloud which runs on your own server"
+   },
+   {
+    "name": "Spacedrive",
+    "repo": "spacedriveapp/spacedrive",
+    "description": "Cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust"
+   }
+  ],
+  "googledrive": [
+   {
+    "name": "Filestash",
+    "repo": "mickael-kerjean/filestash",
+    "description": "A file manager that let you manage your data anywhere it is located"
+   },
+   {
+    "name": "Nextcloud",
+    "repo": "nextcloud/server",
+    "description": "A personal cloud which runs on your own server"
+   },
+   {
+    "name": "Owncloud",
+    "repo": "owncloud/core",
+    "description": "A personal cloud which runs on your own server"
+   },
+   {
+    "name": "Spacedrive",
+    "repo": "spacedriveapp/spacedrive",
+    "description": "Cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust"
+   }
+  ],
+  "stripebilling": [
+   {
+    "name": "Lago",
+    "repo": "getlago/lago",
+    "description": "Open Source Billing API"
+   }
+  ],
+  "chargebee": [
+   {
+    "name": "Lago",
+    "repo": "getlago/lago",
+    "description": "Open Source Billing API"
+   }
+  ],
+  "bloomberg": [
+   {
+    "name": "OpenBB Terminal",
+    "repo": "GamestonkTerminal/GamestonkTerminal",
+    "description": "Investment research for everyone"
+   }
+  ],
+  "vueform": [
+   {
+    "name": "FormKit",
+    "repo": "formkit/formkit",
+    "description": "A software to help build attractive forms"
+   },
+   {
+    "name": "Formio",
+    "repo": "formio/formio",
+    "description": "A Form and Data Management Platform for Progressive Web Applications"
+   }
+  ],
+  "typeform": [
+   {
+    "name": "FormKit",
+    "repo": "formkit/formkit",
+    "description": "A software to help build attractive forms"
+   },
+   {
+    "name": "Formbricks",
+    "repo": "formbricks/formbricks",
+    "description": "Build forms and receive & manage submission data in one platform"
+   },
+   {
+    "name": "Formio",
+    "repo": "formio/formio",
+    "description": "A Form and Data Management Platform for Progressive Web Applications"
+   }
+  ],
+  "googleforms": [
+   {
+    "name": "Formbricks",
+    "repo": "formbricks/formbricks",
+    "description": "Build forms and receive & manage submission data in one platform"
+   }
+  ],
+  "reacthookform": [
+   {
+    "name": "Formbricks",
+    "repo": "formbricks/formbricks",
+    "description": "Build forms and receive & manage submission data in one platform"
+   }
+  ],
+  "tribe": [
+   {
+    "name": "Discourse",
+    "repo": "discourse/discourse",
+    "description": "A platform for community discussion"
+   },
+   {
+    "name": "Vanilla",
+    "repo": "vanilla/vanilla",
+    "description": "A platform for community discussion"
+   }
+  ],
+  "circle": [
+   {
+    "name": "Discourse",
+    "repo": "discourse/discourse",
+    "description": "A platform for community discussion"
+   },
+   {
+    "name": "Vanilla",
+    "repo": "vanilla/vanilla",
+    "description": "A platform for community discussion"
+   }
+  ],
+  "tigergraph": [
+   {
+    "name": "ArangoDB",
+    "repo": "arangodb/arangodb",
+    "description": "Graph database and document store"
+   },
+   {
+    "name": "Memgraph",
+    "repo": "memgraph/memgraph",
+    "description": "In-memory graph database"
+   },
+   {
+    "name": "Neo4j",
+    "repo": "neo4j/neo4j",
+    "description": "Graph database platform"
+   },
+   {
+    "name": "TerminusDB",
+    "repo": "terminusdb/terminusdb",
+    "description": "Knowledge graph and document store"
+   }
+  ],
+  "amazonneptune": [
+   {
+    "name": "ArangoDB",
+    "repo": "arangodb/arangodb",
+    "description": "Graph database and document store"
+   },
+   {
+    "name": "Memgraph",
+    "repo": "memgraph/memgraph",
+    "description": "In-memory graph database"
+   },
+   {
+    "name": "Neo4j",
+    "repo": "neo4j/neo4j",
+    "description": "Graph database platform"
+   },
+   {
+    "name": "TerminusDB",
+    "repo": "terminusdb/terminusdb",
+    "description": "Knowledge graph and document store"
+   }
+  ],
+  "retool": [
+   {
+    "name": "AppSmith",
+    "repo": "appsmithorg/appsmith",
+    "description": "Low-code platform for internal tools"
+   },
+   {
+    "name": "Budibase",
+    "repo": "Budibase/budibase",
+    "description": "Low-code platform for internal tools"
+   },
+   {
+    "name": "ILLA Cloud",
+    "repo": "illacloud/illa-builder",
+    "description": "Low-code platform for developers to build internal tools in minutes."
+   },
+   {
+    "name": "Lowdefy",
+    "repo": "lowdefy/lowdefy",
+    "description": "YAML-based low-code platform for internal tools"
+   },
+   {
+    "name": "Tooljet",
+    "repo": "tooljet/tooljet",
+    "description": "Low-code framework for internal tools"
+   },
+   {
+    "name": "Windmill",
+    "repo": "windmill-labs/windmill",
+    "description": "Company-wide apps and automations from minimal python or typescript scripts"
+   }
+  ],
+  "lokalise": [
+   {
+    "name": "Tolgee",
+    "repo": "tolgee/tolgee-platform",
+    "description": "Developer & translator friendly web-based localization platform"
+   },
+   {
+    "name": "inlang",
+    "repo": "inlang/inlang",
+    "description": "Developer-first localization infrastructure built on git"
+   }
+  ],
+  "transifex": [
+   {
+    "name": "Tolgee",
+    "repo": "tolgee/tolgee-platform",
+    "description": "Developer & translator friendly web-based localization platform"
+   },
+   {
+    "name": "inlang",
+    "repo": "inlang/inlang",
+    "description": "Developer-first localization infrastructure built on git"
+   }
+  ],
+  "crowdin": [
+   {
+    "name": "Tolgee",
+    "repo": "tolgee/tolgee-platform",
+    "description": "Developer & translator friendly web-based localization platform"
+   },
+   {
+    "name": "inlang",
+    "repo": "inlang/inlang",
+    "description": "Developer-first localization infrastructure built on git"
+   }
+  ],
+  "poeditor": [
+   {
+    "name": "Tolgee",
+    "repo": "tolgee/tolgee-platform",
+    "description": "Developer & translator friendly web-based localization platform"
+   },
+   {
+    "name": "inlang",
+    "repo": "inlang/inlang",
+    "description": "Developer-first localization infrastructure built on git"
+   }
+  ],
+  "awssagemaker": [
+   {
+    "name": "Cortex",
+    "repo": "cortexlabs/cortex",
+    "description": "Production infrastructure for machine learning"
+   },
+   {
+    "name": "Ploomber",
+    "repo": "ploomber/ploomber",
+    "description": "YAML-based pipeline builder for ML models"
+   },
+   {
+    "name": "Seldon",
+    "repo": "SeldonIO/seldon-core",
+    "description": "Deployment & monitoring for machine learning at scale"
+   },
+   {
+    "name": "Zilliz",
+    "repo": "towhee-io/towhee",
+    "description": "Platform for generating embedding vectors"
+   }
+  ],
+  "awspersonalize": [
+   {
+    "name": "Metarank",
+    "repo": "metarank/metarank",
+    "description": "AutoML style personalized ranking"
+   }
+  ],
+  "tecton": [
+   {
+    "name": "Metarank",
+    "repo": "metarank/metarank",
+    "description": "AutoML style personalized ranking"
+   }
+  ],
+  "bigqueryml": [
+   {
+    "name": "MindsDB",
+    "repo": "mindsdb/mindsdb",
+    "description": "In-database machine learning platform"
+   }
+  ],
+  "bitly": [
+   {
+    "name": "Dub",
+    "repo": "steven-tey/dub",
+    "description": "Open-source Bitly Alternative with built-in analytics"
+   }
+  ],
+  "slack": [
+   {
+    "name": "Element",
+    "repo": "vector-im/element-web",
+    "description": "Enterprise communication platform"
+   },
+   {
+    "name": "Mattermost",
+    "repo": "mattermost/mattermost-server",
+    "description": "Enterprise communication platform for developers"
+   },
+   {
+    "name": "Rocket.chat",
+    "repo": "RocketChat/Rocket.Chat",
+    "description": "Enterprise communication platform"
+   },
+   {
+    "name": "Zulip",
+    "repo": "zulip/zulip",
+    "description": "Team chat"
+   }
+  ],
+  "whatsapp": [
+   {
+    "name": "Tinode",
+    "repo": "tinode/chat",
+    "description": "General instant messaging"
+   }
+  ],
+  "telegram": [
+   {
+    "name": "Tinode",
+    "repo": "tinode/chat",
+    "description": "General instant messaging"
+   }
+  ],
+  "looker": [
+   {
+    "name": "Cube.js",
+    "repo": "cube-js/cube.js",
+    "description": "Headless business intelligence suite"
+   },
+   {
+    "name": "Evidence",
+    "repo": "evidence-dev/evidence",
+    "description": "Lightweight BI using SQL and markdown"
+   },
+   {
+    "name": "LightDash",
+    "repo": "lightdash/lightdash",
+    "description": "Low-code metrics layer, alternative to Looker"
+   },
+   {
+    "name": "MLCraft",
+    "repo": "mlcraft-io/mlcraft",
+    "description": "Low-code metrics layer, alternative to Looker"
+   },
+   {
+    "name": "MetriQL",
+    "repo": "metriql/metriql",
+    "description": "Headless business intelligence suite"
+   }
+  ],
+  "airtable": [
+   {
+    "name": "NocoDB",
+    "repo": "nocodb/nocodb",
+    "description": "No-code database and Airtable alternative"
+   },
+   {
+    "name": "Rowy",
+    "repo": "rowyio/rowy",
+    "description": "Extendable Airtable-like spreadsheet UI for databases"
+   },
+   {
+    "name": "Totum",
+    "repo": "totumonline/totum-mit",
+    "description": "Business database for non-programmers"
+   }
+  ],
+  "notion": [
+   {
+    "name": "AppFlowy",
+    "repo": "AppFlowy-IO/appflowy",
+    "description": "Open-source alternative to Notion"
+   },
+   {
+    "name": "Bangle.io",
+    "repo": "bangle-io/bangle-io",
+    "description": "A rich note note taking web app that works on top of your locally saved Markdown files"
+   },
+   {
+    "name": "Boost Note",
+    "repo": "BoostIO/BoostNote-App",
+    "description": "Collaborative workspace for developer teams"
+   },
+   {
+    "name": "Notabase",
+    "repo": "churichard/notabase",
+    "description": "Powerful and easy-to-use note-taking app for networked thinking"
+   },
+   {
+    "name": "Outline",
+    "repo": "outline/outline",
+    "description": "Wiki and knowledge base"
+   },
+   {
+    "name": "Focalboard",
+    "repo": "mattermost/focalboard",
+    "description": "Alternative to Trello, Notion, and Asana"
+   }
+  ],
+  "roamresearch": [
+   {
+    "name": "Athens Research",
+    "repo": "athensresearch/athens",
+    "description": "Knowledge graph for research and notetaking"
+   },
+   {
+    "name": "Dendron",
+    "repo": "dendronhq/dendron",
+    "description": "Knowledge base plugin for VS Code"
+   },
+   {
+    "name": "Joplin",
+    "repo": "laurent22/joplin",
+    "description": "Secure, Cross-platform, Open-Source  Markdown Note Taking App"
+   },
+   {
+    "name": "Logseq",
+    "repo": "logseq/logseq",
+    "description": "Knowledge base manager"
+   },
+   {
+    "name": "Notabase",
+    "repo": "churichard/notabase",
+    "description": "Powerful and easy-to-use note-taking app for networked thinking"
+   }
+  ],
+  "evernote": [
+   {
+    "name": "Joplin",
+    "repo": "laurent22/joplin",
+    "description": "Secure, Cross-platform, Open-Source  Markdown Note Taking App"
+   },
+   {
+    "name": "Notesnook",
+    "repo": "streetwriters/notesnook",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote."
+   },
+   {
+    "name": "Trilium.cc",
+    "repo": "zadam/trilium",
+    "description": "Personal knowledge base"
+   }
+  ],
+  "onenote": [
+   {
+    "name": "Joplin",
+    "repo": "laurent22/joplin",
+    "description": "Secure, Cross-platform, Open-Source  Markdown Note Taking App"
+   },
+   {
+    "name": "Notesnook",
+    "repo": "streetwriters/notesnook",
+    "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote."
+   },
+   {
+    "name": "Trilium.cc",
+    "repo": "zadam/trilium",
+    "description": "Personal knowledge base"
+   }
+  ],
+  "awslookout": [
+   {
+    "name": "Chaos Genius",
+    "repo": "chaos-genius/chaos_genius",
+    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
+   }
+  ],
+  "anodot": [
+   {
+    "name": "Chaos Genius",
+    "repo": "chaos-genius/chaos_genius",
+    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
+   }
+  ],
+  "sisudata": [
+   {
+    "name": "Chaos Genius",
+    "repo": "chaos-genius/chaos_genius",
+    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
+   }
+  ],
+  "outlier": [
+   {
+    "name": "Chaos Genius",
+    "repo": "chaos-genius/chaos_genius",
+    "description": "ML powered analytics engine for outlier/anomaly detection and root cause analysis"
+   }
+  ],
+  "datadog": [
+   {
+    "name": "Grafana",
+    "repo": "grafana/grafana",
+    "description": "Observability and data visualization platform"
+   },
+   {
+    "name": "Netdata",
+    "repo": "netdata/netdata",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "OpenStatus",
+    "repo": "openstatusHQ/openstatus",
+    "description": "Synthetic monitoring platform"
+   },
+   {
+    "name": "Sentry",
+    "repo": "getsentry/sentry",
+    "description": "Application monitoring with a focus on error reporting"
+   },
+   {
+    "name": "Signoz",
+    "repo": "signoz/signoz",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "Uptrace",
+    "repo": "uptrace/uptrace",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "VictoriaMetrics",
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "description": "Application monitoring and observability platform"
+   }
+  ],
+  "newrelic": [
+   {
+    "name": "Grafana",
+    "repo": "grafana/grafana",
+    "description": "Observability and data visualization platform"
+   },
+   {
+    "name": "Netdata",
+    "repo": "netdata/netdata",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "OpenStatus",
+    "repo": "openstatusHQ/openstatus",
+    "description": "Synthetic monitoring platform"
+   },
+   {
+    "name": "Sentry",
+    "repo": "getsentry/sentry",
+    "description": "Application monitoring with a focus on error reporting"
+   },
+   {
+    "name": "Signoz",
+    "repo": "signoz/signoz",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "Uptrace",
+    "repo": "uptrace/uptrace",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "VictoriaMetrics",
+    "repo": "VictoriaMetrics/VictoriaMetrics",
+    "description": "Application monitoring and observability platform"
+   },
+   {
+    "name": "Castled",
+    "repo": "castledio/castled",
+    "description": "Data synchronization framework focused on external apps"
+   }
+  ],
+  "1password": [
+   {
+    "name": "BitWarden",
+    "repo": "bitwarden/server",
+    "description": "Password manager for teams and individuals"
+   },
+   {
+    "name": "Padloc",
+    "repo": "padloc/padloc",
+    "description": "Password manager for teams and individuals"
+   },
+   {
+    "name": "Passbolt",
+    "repo": "passbolt/passbolt_api",
+    "description": "Password manager for teams and individuals"
+   }
+  ],
+  "heroku": [
+   {
+    "name": "Coolify",
+    "repo": "coollabsio/coolify",
+    "description": "Self-hostable Heroku alternative"
+   },
+   {
+    "name": "Dokku",
+    "repo": "dokku/dokku",
+    "description": "An open source PAAS alternative to Heroku"
+   },
+   {
+    "name": "Otomi",
+    "repo": "redkubes/otomi-core",
+    "description": "Self-hosted PaaS for Kubernetes"
+   },
+   {
+    "name": "Porter",
+    "repo": "porter-dev/porter",
+    "description": "Kubernetes powered PaaS that runs in your own cloud"
+   },
+   {
+    "name": "Pulumi",
+    "repo": "pulumi/pulumi",
+    "description": "Universal Infrastructure as Code"
+   },
+   {
+    "name": "Qovery",
+    "repo": "Qovery/engine",
+    "description": "Kubernetes powered PaaS that runs in your own cloud"
+   },
+   {
+    "name": "Space Cloud",
+    "repo": "spacecloud-io/space-cloud",
+    "description": "Serverless cloud deployment platform"
+   },
+   {
+    "name": "dyrector.io",
+    "repo": "dyrector-io/dyrectorio",
+    "description": "Simplify container delivery without vendor lock"
+   }
+  ],
+  "googleanalytics": [
+   {
+    "name": "Objectiv",
+    "repo": "objectiv/objectiv-analytics",
+    "description": "Product analytics infrastructure"
+   },
+   {
+    "name": "Trench",
+    "repo": "FrigadeHQ/trench",
+    "description": "Open source analytics infrastructure"
+   },
+   {
+    "name": "GoatCounter",
+    "repo": "arp242/goatcounter",
+    "description": "Google Analytics alternative"
+   },
+   {
+    "name": "Matomo",
+    "repo": "matomo-org/matomo",
+    "description": "Google Analytics alternative"
+   },
+   {
+    "name": "Plausible",
+    "repo": "plausible/analytics",
+    "description": "Google Analytics alternative"
+   },
+   {
+    "name": "Swetrix",
+    "repo": "swetrix/swetrix-js",
+    "description": "Google Analytics alternative"
+   },
+   {
+    "name": "Umami",
+    "repo": "mikecao/umami",
+    "description": "Google Analytics alternative"
+   }
+  ],
+  "amplitude": [
+   {
+    "name": "Objectiv",
+    "repo": "objectiv/objectiv-analytics",
+    "description": "Product analytics infrastructure"
+   },
+   {
+    "name": "PostHog",
+    "repo": "PostHog/posthog",
+    "description": "Product analytics platform"
+   },
+   {
+    "name": "Trench",
+    "repo": "FrigadeHQ/trench",
+    "description": "Open source analytics infrastructure"
+   }
+  ],
+  "mixpanel": [
+   {
+    "name": "Objectiv",
+    "repo": "objectiv/objectiv-analytics",
+    "description": "Product analytics infrastructure"
+   },
+   {
+    "name": "PostHog",
+    "repo": "PostHog/posthog",
+    "description": "Product analytics platform"
+   }
+  ],
+  "trello": [
+   {
+    "name": "Focalboard",
+    "repo": "mattermost/focalboard",
+    "description": "Alternative to Trello, Notion, and Asana"
+   },
+   {
+    "name": "OpenProject",
+    "repo": "opf/openproject",
+    "description": "Project management software"
+   },
+   {
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "description": "Alternative to Linear, JIRA, Trello and Height"
+   },
+   {
+    "name": "Taiga",
+    "repo": "taigaio/taiga-back",
+    "description": "Project management software"
+   },
+   {
+    "name": "Vikunja",
+    "repo": "go-vikunja/api",
+    "description": "The to-do app to organize your next project."
+   }
+  ],
+  "asana": [
+   {
+    "name": "Focalboard",
+    "repo": "mattermost/focalboard",
+    "description": "Alternative to Trello, Notion, and Asana"
+   },
+   {
+    "name": "OpenProject",
+    "repo": "opf/openproject",
+    "description": "Project management software"
+   },
+   {
+    "name": "Taiga",
+    "repo": "taigaio/taiga-back",
+    "description": "Project management software"
+   },
+   {
+    "name": "Vikunja",
+    "repo": "go-vikunja/api",
+    "description": "The to-do app to organize your next project."
+   }
+  ],
+  "linear": [
+   {
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "description": "Alternative to Linear, JIRA, Trello and Height"
+   }
+  ],
+  "jira": [
+   {
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "description": "Alternative to Linear, JIRA, Trello and Height"
+   },
+   {
+    "name": "Taiga",
+    "repo": "taigaio/taiga-back",
+    "description": "Project management software"
+   }
+  ],
+  "height": [
+   {
+    "name": "Plane",
+    "repo": "makeplane/plane",
+    "description": "Alternative to Linear, JIRA, Trello and Height"
+   }
+  ],
+  "todoist": [
+   {
+    "name": "Vikunja",
+    "repo": "go-vikunja/api",
+    "description": "The to-do app to organize your next project."
+   }
+  ],
+  "amazonaurora": [
+   {
+    "name": "PingCAP",
+    "repo": "pingcap/tidb",
+    "description": "NewSQL database that supports HTAP workloads"
+   },
+   {
+    "name": "Yugabyte",
+    "repo": "yugabyte/yugabyte-db",
+    "description": "High-performance distributed SQL database"
+   }
+  ],
+  "googlecloudspanner": [
+   {
+    "name": "PingCAP",
+    "repo": "pingcap/tidb",
+    "description": "NewSQL database that supports HTAP workloads"
+   },
+   {
+    "name": "Yugabyte",
+    "repo": "yugabyte/yugabyte-db",
+    "description": "High-performance distributed SQL database"
+   }
+  ],
+  "teamviewer": [
+   {
+    "name": "RustDesk",
+    "repo": "rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone"
+   }
+  ],
+  "hightouch": [
+   {
+    "name": "Castled",
+    "repo": "castledio/castled",
+    "description": "Data synchronization framework focused on external apps"
+   },
+   {
+    "name": "Grouparoo",
+    "repo": "grouparoo/grouparoo",
+    "description": "Data synchronization framework"
+   }
+  ],
+  "uipath": [
+   {
+    "name": "RoboCorp",
+    "repo": "robocorp/rcc",
+    "description": "Set of tooling that allows to create automation packages"
+   }
+  ],
+  "calendly": [
+   {
+    "name": "Cal.com",
+    "repo": "calendso/calendso",
+    "description": "Scheduling infrastructure, alternative to Calendly"
+   }
+  ],
+  "logrocket": [
+   {
+    "name": "OpenReplay",
+    "repo": "openreplay/openreplay",
+    "description": "Session replay stack for developers"
+   }
+  ],
+  "fullstory": [
+   {
+    "name": "OpenReplay",
+    "repo": "openreplay/openreplay",
+    "description": "Session replay stack for developers"
+   }
+  ],
+  "buffer": [
+   {
+    "name": "Postiz",
+    "repo": "gitroomhq/postiz-app",
+    "description": "Self-hosted social media scheduling tool"
+   }
+  ],
+  "hootsuite": [
+   {
+    "name": "Postiz",
+    "repo": "gitroomhq/postiz-app",
+    "description": "Self-hosted social media scheduling tool"
+   }
+  ],
+  "twitch": [
+   {
+    "name": "Glimesh",
+    "repo": "glimesh/glimesh.tv",
+    "description": "Live streaming platform"
+   }
+  ],
+  "surveymonkey": [
+   {
+    "name": "LimeSurvey",
+    "repo": "LimeSurvey/LimeSurvey",
+    "description": "Online survey platform"
+   }
+  ],
+  "qualtrics": [
+   {
+    "name": "LimeSurvey",
+    "repo": "LimeSurvey/LimeSurvey",
+    "description": "Online survey platform"
+   }
+  ],
+  "kdb": [
+   {
+    "name": "CrateDB",
+    "repo": "crate/crate",
+    "description": "Distributed SQL database for real-time analytics of time series data"
+   },
+   {
+    "name": "InfluxDB",
+    "repo": "influxdata/influxdb",
+    "description": "Database designed to process time series data"
+   },
+   {
+    "name": "QuestDB",
+    "repo": "questdb/questdb",
+    "description": "Database designed to process time series data"
+   },
+   {
+    "name": "TDengine",
+    "repo": "taosdata/TDengine",
+    "description": "Database designed to process time series data"
+   },
+   {
+    "name": "TimescaleDB",
+    "repo": "timescale/timescaledb",
+    "description": "Database designed to process time series data"
+   }
+  ],
+  "ngrok": [
+   {
+    "name": "Tunnelmole",
+    "repo": "robbie-cahill/tunnelmole-client",
+    "description": "Get a Public URL for your local development enviornment"
+   },
+   {
+    "name": "OmniEdge",
+    "repo": "omniedgeio/omniedge",
+    "description": "No-code P2P layer-2 mesh VPN for enterprise with zero config"
+   }
+  ],
+  "oray": [
+   {
+    "name": "OmniEdge",
+    "repo": "omniedgeio/omniedge",
+    "description": "No-code P2P layer-2 mesh VPN for enterprise with zero config"
+   }
+  ],
+  "awsvpc": [
+   {
+    "name": "OmniEdge",
+    "repo": "omniedgeio/omniedge",
+    "description": "No-code P2P layer-2 mesh VPN for enterprise with zero config"
+   }
+  ],
+  "zoom": [
+   {
+    "name": "Jitsi",
+    "repo": "jitsi/jitsi-meet",
+    "description": "Video conferences platform and SDK"
+   }
+  ],
+  "agora": [
+   {
+    "name": "LiveKit",
+    "repo": "livekit/livekit-server",
+    "description": "SFU and SDKs for high-performance, scalable WebRTC"
+   }
+  ],
+  "pusher": [
+   {
+    "name": "Svix",
+    "repo": "svix/svix-webhooks",
+    "description": "Webhooks as a Service"
+   }
+  ],
+  "tray": [
+   {
+    "name": "Activepieces",
+    "repo": "activepieces/activepieces",
+    "description": "No-code business automation tool"
+   }
+  ],
+  "integromat": [
+   {
+    "name": "Pipedream",
+    "repo": "PipedreamHQ/pipedream",
+    "description": "Workflow automation and API integration platform"
+   }
+  ]
+ }
+}
